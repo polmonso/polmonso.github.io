@@ -8,7 +8,7 @@
 
 As a software developer at Robotic Eyes, Graz, I developed several applications for Android and iOs based on Unity Engine and rexos cloud.
 
-<iframe  title="Rex vimeo player" width="480" height="390" src=https://player.vimeo.com/video/349052632" frameborder="0" allowfullscreen></iframe>
+[![REX demo](https://i.vimeocdn.com/video/819084009_640.jpg)](https://vimeo.com/363824641)
 
 Codes are under Non Disclosure Agreement.
 
