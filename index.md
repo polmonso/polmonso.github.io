@@ -4,6 +4,14 @@
 
 ## as a Code Developer
 
+### Augmented Reality Development
+
+As a software developer at Robotic Eyes, Graz, I developed several applications for Android and iOs based on Unity Engine and rexos cloud.
+
+<iframe  title="Rex vimeo player" width="480" height="390" src=https://player.vimeo.com/video/349052632" frameborder="0" allowfullscreen></iframe>
+
+Codes are under Non Disclosure Agreement.
+
 ### Context-Cues Segmentation
 
 As a software developer at the CVLab of École Polytechnique de Lausanne. I worked in a fantastic brain segmentation project with @cbecker. We implemented a plugin for the mitochondria segmentation software ESPina.
