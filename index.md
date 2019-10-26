@@ -8,6 +8,8 @@
 
 As a software developer at Robotic Eyes, Graz, I developed several applications for Android and iOs based on Unity Engine and rexos cloud.
 
+Applications ranged from pointcloud acquisition and SLAM to manipulating and interacting with 3D models in the real world.
+
 [![REX demo](https://i.vimeocdn.com/video/819084009_640.jpg)](https://vimeo.com/363824641)
 
 Codes are under Non Disclosure Agreement.
